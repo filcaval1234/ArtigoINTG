@@ -5,6 +5,11 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Alfke, Bolsens e Carter 1943]{Alfke1943}
+\abntrefinfo{Alfke, Bolsens e Carter}{ALFKE; BOLSENS; CARTER}{1943}
+{ALFKE, P.; BOLSENS, I.; CARTER, B. {Fpga !}
+n. November 2011, p. 15--20, 1943.}
+
 \bibitem[Antoniol et al. 2007]{Antoniol2007}
 \abntrefinfo{Antoniol et al.}{ANTONIOL et al.}{2007}
 {ANTONIOL, G. et al. {Mining the lexicon used by programmers during sofware

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.9.28)  29 SEP 2017 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.9.28)  29 SEP 2017 17:38
 entering extended mode
 **./BASE.tex
 (BASE.tex
@@ -676,30 +676,39 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 ("D:\Nova pasta (2)\LaTexCompiler\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 2582) in paragraph at lines 24--24
+Underfull \hbox (badness 1783) in paragraph at lines 21--23
+\OT1/cmr/m/n/12 texto cor-rido(ANTONIOL et al., 2007)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+\OT1/cmr/m/n/12 outra citac~ao(ALFKE; BOLSENS;
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 25--25
 []\OT1/cmr/bx/n/14.4 O Que e De-scric~ao de
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 25--25
+Underfull \hbox (badness 1668) in paragraph at lines 26--26
 []\OT1/cmr/bx/n/14.4 O Hard-ware Como Um
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 []\OT1/cmr/bx/n/17.28 Resultados e Dis-
  []
 
 (BASE.bbl) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-
 ] (BASE.aux) ) 
 Here is how much of TeX's memory you used:
- 4024 strings out of 493323
- 52603 string characters out of 3137315
- 223196 words of memory out of 3000000
- 7483 multiletter control sequences out of 15000+200000
+ 4029 strings out of 493323
+ 52685 string characters out of 3137315
+ 224281 words of memory out of 3000000
+ 7488 multiletter control sequences out of 15000+200000
  8096 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,7n,25p,280b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -707,7 +716,7 @@ Here is how much of TeX's memory you used:
 mbx12.pfb><D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/cmr12
 .pfb><D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/cmr17.pfb>
 <D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on BASE.pdf (1 page, 57612 bytes).
+Output written on BASE.pdf (1 page, 59321 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
