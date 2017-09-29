@@ -1,21 +1,33 @@
-\providecommand{\abntreprintinfo}[1]{%
- \citeonline{#1}}
-\setlength{\labelsep}{0pt}\begin{thebibliography}{}
-\providecommand{\abntrefinfo}[3]{}
-\providecommand{\abntbstabout}[1]{}
-\abntbstabout{v-1.9.6 }
+\begin{thebibliography}{1}
 
-\bibitem[Alfke, Bolsens e Carter 1943]{Alfke1943}
-\abntrefinfo{Alfke, Bolsens e Carter}{ALFKE; BOLSENS; CARTER}{1943}
-{ALFKE, P.; BOLSENS, I.; CARTER, B. {Fpga !}
-n. November 2011, p. 15--20, 1943.}
+\bibitem{Abebe2009}
+{\sc Abebe, S.~L., Haiduc, S., Marcus, A., Tonella, P., and Antoniol, G.}
+\newblock {Analyzing the evolution of the source code vocabulary}.
+\newblock {\em Proceedings of the European Conference on Software Maintenance
+  and Reengineering, CSMR\/} (2009), 189--198.
 
-\bibitem[Antoniol et al. 2007]{Antoniol2007}
-\abntrefinfo{Antoniol et al.}{ANTONIOL et al.}{2007}
-{ANTONIOL, G. et al. {Mining the lexicon used by programmers during sofware
-  evolution}.
-\emph{IEEE International Conference on Software Maintenance, ICSM}, p. 14--23,
-  2007.
-ISSN 10636773.}
+\bibitem{Alfke1943}
+{\sc Alfke, P., Bolsens, I., and Carter, B.}
+\newblock {Fpga !}
+\newblock 15--20.
+
+\bibitem{Antoniol2007}
+{\sc Antoniol, G., Gu{\'{e}}h{\'{e}}neuc, Y.~G., Merlo, E., and Tonella, P.}
+\newblock {Mining the lexicon used by programmers during sofware evolution}.
+\newblock {\em IEEE International Conference on Software Maintenance, ICSM\/}
+  (2007), 14--23.
+
+\bibitem{BENEDUSI1992225}
+{\sc Benedusi, P., Cimitile, A., and Carlini, U.~D.}
+\newblock Reverse engineering processes, design document production, and
+  structure charts.
+\newblock {\em Journal of Systems and Software 19}, 3 (1992), 225 -- 245.
+
+\bibitem{Marc-Andre}
+{\sc {M. DAIGNEAULT}, J.~D.}
+\newblock {RAISING THE ABSTRACTION LEVEL OF HDL FOR CONTROL-DOMINANT
+  APPLICATIONS Marc-Andre Daigneault and Jean Pierre David Department of
+  Electrical Engineering , Ecole Polytechnique de Montreal}.
+\newblock 515--518.
 
 \end{thebibliography}

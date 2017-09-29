@@ -1,9 +1,7 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: BASE.aux
-The style file: abntex2-alf.bst
-Database file #1: abntex2-options.bib
-Database file #2: refs.bib
-+---------------------------------------------------------+
-| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
-| Em caso de dúvidas ou problemas com este estilo procure |
-| http://www.abntex.net.br/                               |
-+---------------------------------------------------------+
+The style file: acm.bst
+Database file #1: refs.bib
+Warning--I didn't find a database entry for "Host2007"
+Warning--empty journal in Alfke1943
+Warning--empty journal in Marc-Andre
+(There were 3 warnings)

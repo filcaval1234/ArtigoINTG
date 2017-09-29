@@ -1,13 +1,13 @@
 \documentclass[12pt, twocolumn, a4paper]{article}
 \usepackage{multicol, lipsum}
 \usepackage[utf8]{inputenc}
+\usepackage{cite}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage[a4paper, left=3cm, right=2cm, top=3cm, bottom=2cm,
 		headsep=1cm, footskip=2cm]{geometry}
-\usepackage[alf]{abntex2cite}
 
 \begin{document}
 	\title{SystemVerilog Vocabulary Extractor}
@@ -21,6 +21,14 @@
 	texto corrido\cite{Antoniol2007}
 	outra citação\cite{Alfke1943}
 	\section{Introdução}
+\quad O primeiro FPGA(Field Programmable Gate Array) comercialmente disponível  foi lançado em 1985, fornecendo 64 blocos de lógica configurável e 58 blocos de entrada e saída de seus 85.000 transistores\cite{Alfke1943}. Nos tempos modernos, os FPGAs se tornaram chips com bilhões de transistores, fornecendo milhares de bits de memória on-chip, dezenas de milhares de registradores e centenas de blocos DSP(Digital Signal Processor)\cite{Marc-Andre}. A partir disto, Como a complexidade de sistemas digitais modernos continua a aumentar exponencialmente, tem-se que as metodologias de design RTL estão crescendo também\cite{Marc-Andre}.
+
+Com tal avanço, elevou-se o nível de abstração no desenvolvimento de hardware através de uma linguagem de descrição de hardware (HDL), de tal forma que, fez-se necessário o uso de ferramentas de análise de informações que antes eram somente do escopo da engenharia de software.
+
+Umas das principais fontes de informações em um código fonte é o vocabulário do mesmo. O vocabulário também denominado de léxico do código em \cite{Host2007} e \cite{Antoniol2007}, consiste no conjunto de termos repetidos ou únicos que compõem identificadores e que estão presentes no textos dos comentários\cite{Abebe2009}.
+
+Usando os princípios da engenharia reversa como uma coleção de metodologias e técnicas capazes de realizar a extração e abstração de informações\cite{BENEDUSI1992225}, este trabalho propõe um ferramenta que possibilita a extração de vocabulário para Systemverilog.
+
 	\section{Background}
 	\subsection{O Que é Descrição de Hardware?}
 	\subsection{O Hardware Como Um Software}
@@ -28,4 +36,5 @@
 	\section{SystemVerilog Vocabulary Extractor}
 	\section{Resultados e Discussões}
 	\bibliography{refs}
+	\bibliographystyle{acm}
 \end{document}
