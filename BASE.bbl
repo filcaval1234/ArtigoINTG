@@ -5,4 +5,12 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Antoniol et al. 2007]{Antoniol2007}
+\abntrefinfo{Antoniol et al.}{ANTONIOL et al.}{2007}
+{ANTONIOL, G. et al. {Mining the lexicon used by programmers during sofware
+  evolution}.
+\emph{IEEE International Conference on Software Maintenance, ICSM}, p. 14--23,
+  2007.
+ISSN 10636773.}
+
 \end{thebibliography}
