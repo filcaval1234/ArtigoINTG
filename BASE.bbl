@@ -23,6 +23,31 @@
   structure charts.
 \newblock {\em Journal of Systems and Software 19}, 3 (1992), 225 -- 245.
 
+\bibitem{Hahanov2008}
+{\sc Hahanov, V., Melnik, D., Zaharchenko, O., and Zaychenko, S.}
+\newblock {Overview of Object-Oriented Approach to HDL- Testbench Construction
+  for System-on-Chips}.
+\newblock 621--625.
+
+\bibitem{Host2007}
+{\sc H{\o}st, E.~W., and {\O}stvold, B.~M.}
+\newblock {The programmer's lexicon, volume I: The verbs}.
+\newblock {\em SCAM 2007 - Proceedings 7th IEEE International Working
+  Conference on Source Code Analysis and Manipulation I\/} (2007), 193--202.
+
+\bibitem{IEEEComputerSociety2013}
+{\sc {IEEE Computer Society}, and {IEEE Standards Association Corporate
+  Advisory Group}}.
+\newblock {IEEE Standard for SystemVerilog–Unified Hardware Design,
+  Specification, and Verification Language}.
+\newblock 1315.
+
+\bibitem{Kumar2014}
+{\sc Kumar, P.}
+\newblock {High Level Modeling Of Physical Layer Noise Parameters Using
+  SystemC}.
+\newblock 344--347.
+
 \bibitem{Marc-Andre}
 {\sc {M. DAIGNEAULT}, J.~D.}
 \newblock {RAISING THE ABSTRACTION LEVEL OF HDL FOR CONTROL-DOMINANT
