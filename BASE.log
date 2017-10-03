@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.9.28)  29 SEP 2017 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.9.28)  3 OCT 2017 16:56
 entering extended mode
 **./BASE.tex
 (BASE.tex
@@ -396,6 +396,11 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
+("D:\Nova pasta (2)\LaTexCompiler\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
 ("D:\Nova pasta (2)\LaTexCompiler\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip45
@@ -522,47 +527,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen130
 \Gm@dimlist=\toks22
 
-("D:\Nova pasta (2)\LaTexCompiler\tex\latex\geometry\geometry.cfg"))
-("D:\Nova pasta (2)\LaTexCompiler\tex\latex\abntex2\abntex2cite.sty"
-Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
-
-("D:\Nova pasta (2)\LaTexCompiler\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("D:\Nova pasta (2)\LaTexCompiler\tex\latex\tools\calc.sty"
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count113
-\calc@Bcount=\count114
-\calc@Adimen=\dimen131
-\calc@Bdimen=\dimen132
-\calc@Askip=\skip48
-\calc@Bskip=\skip49
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count115
-\calc@Cskip=\skip50
-)
-("D:\Nova pasta (2)\LaTexCompiler\tex\latex\abntex2\abntex2abrev.sty")
-("D:\Nova pasta (2)\LaTexCompiler\tex\latex\setspace\setspace.sty"
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-("D:\Nova pasta (2)\LaTexCompiler\tex\latex\url\url.sty"
-\Urlmuskip=\muskip11
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-\minimumbiblabelwidth=\skip51
-\ABCIauxlen=\skip52
-\c@ABCIaux=\count116
-\c@ABCImax=\count117
-
-("D:\Nova pasta (2)\LaTexCompiler\tex\latex\ltxmisc\relsize.sty"
-Package: relsize 2003/07/04 ver 3.1
-)
-\biblabelsep=\skip53
-LaTeX Info: Redefining \newblock on input line 591.
-LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks23
-) (BASE.aux)
+("D:\Nova pasta (2)\LaTexCompiler\tex\latex\geometry\geometry.cfg")) (BASE.aux)
 \openout1 = `BASE.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -577,20 +542,19 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-
 ("D:\Nova pasta (2)\LaTexCompiler\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
-\scratchdimen=\dimen133
+\scratchcounter=\count113
+\scratchdimen=\dimen131
 \scratchbox=\box54
-\nofMPsegments=\count119
-\nofMParguments=\count120
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count121
-\MPscratchDim=\dimen134
-\MPnumerator=\count122
-\makeMPintoPDFobject=\count123
-\everyMPtoPDFconversion=\toks25
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen132
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks24
 ) ("D:\Nova pasta (2)\LaTexCompiler\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -676,40 +640,156 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 ("D:\Nova pasta (2)\LaTexCompiler\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 2582) in paragraph at lines 24--24
-[]\OT1/cmr/bx/n/14.4 O Que e De-scric~ao de
+Underfull \hbox (badness 10000) in paragraph at lines 21--33
+\OT1/cmr/m/n/12 dddddddddddd ddddddd ddddddddd
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 25--25
+Underfull \hbox (badness 3354) in paragraph at lines 21--33
+\OT1/cmr/m/n/12 dddddddd dddddddd dddddd dsaa ass
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--33
+\OT1/cmr/m/n/12 sssssss asssss ssssss ssssssss sssssssss
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 40--41
+\OT1/cmr/m/n/12 para de-sign e ver-i-ficac~ao na in-dus-tria
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 40--41
+\OT1/cmr/m/n/12 VLSI(Very Large Scale In-te-gra-tion) [9].
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 42--43
+[]\OT1/cmr/m/n/12 Umas das prin-ci-pais fontes de in-
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 42--43
+\OT1/cmr/m/n/12 cabulario do mesmo. O vo-cabulario
+ []
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Underfull \hbox (badness 2134) in paragraph at lines 47--48
+ \OT1/cmr/m/n/12 Gracas aos at-u-ais de-signs eletr^onicos
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 47--48
+\OT1/cmr/m/n/12 mod-e-lagem fsica e teste pos-fabricac~ao
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 47--48
+\OT1/cmr/m/n/12 anos as lin-gua-gens de de-scric~ao e ver-i-
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 50--50
 []\OT1/cmr/bx/n/14.4 O Hard-ware Como Um
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []\OT1/cmr/bx/n/17.28 Resultados e Dis-
  []
 
-(BASE.bbl) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+(BASE.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+[]\OT1/cmr/m/n/12 G. An-to-niol, Y. G. Gueheneuc,
+ []
 
 
+Underfull \hbox (badness 2503) in paragraph at lines 21--25
+\OT1/cmr/m/n/12 Car-lini.  Re-verse en-gi-neer-ing pro-
+ []
+
+
+Underfull \hbox (badness 4403) in paragraph at lines 31--35
+[]\OT1/cmr/m/n/12 V. Ha-hanov, D. Mel-nik, O. Za-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+\OT1/cmr/m/n/12 harchenko, and S. Za-y-chenko.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+\OT1/cmr/m/n/12 Overview of Object-Oriented Ap-
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 31--35
+\OT1/cmr/m/n/12 tion for System-on-Chips.  pages
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 43--48
+[]\OT1/cmr/m/n/12 IEEE Com-puter So-ci-ety and IEEE
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 43--48
+\OT1/cmr/m/n/12 Spec-i-fi-ca-tion, and Ver-i-fi-ca-tion Lan-
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 56--61
+\OT1/cmr/m/n/12 THE AB-STRAC-TION LEVEL OF
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 56--61
+\OT1/cmr/m/n/12 HDL FOR CONTROL-DOMINANT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--61
+\OT1/cmr/m/n/12 AP-PLI-CA-TIONS Marc-Andre
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 56--61
+\OT1/cmr/m/n/12 Daigneault and Jean Pierre David
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 56--61
+\OT1/cmr/m/n/12 , Ecole Poly-tech-nique de Mon-treal.
+ []
+
+[2]
+Underfull \hbox (badness 1635) in paragraph at lines 69--73
+[]\OT1/cmr/m/n/12 S. Suther-land, S. David-mann, and
+ []
+
+) [3
 
 ] (BASE.aux) ) 
 Here is how much of TeX's memory you used:
- 4024 strings out of 493323
- 52603 string characters out of 3137315
- 223196 words of memory out of 3000000
- 7483 multiletter control sequences out of 15000+200000
+ 3568 strings out of 493323
+ 46199 string characters out of 3137315
+ 220304 words of memory out of 3000000
+ 7049 multiletter control sequences out of 15000+200000
  8096 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,7n,25p,280b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,7n,25p,755b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/c
 mbx12.pfb><D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/cmr12
 .pfb><D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/cmr17.pfb>
 <D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on BASE.pdf (1 page, 57612 bytes).
+Output written on BASE.pdf (3 pages, 75595 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

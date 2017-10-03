@@ -1,9 +1,14 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: BASE.aux
-The style file: abntex2-alf.bst
-Database file #1: abntex2-options.bib
-Database file #2: refs.bib
-+---------------------------------------------------------+
-| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
-| Em caso de dúvidas ou problemas com este estilo procure |
-| http://www.abntex.net.br/                               |
-+---------------------------------------------------------+
+The style file: abbrv.bst
+Database file #1: refs.bib
+Warning--empty journal in Alfke1943
+Warning--there's a number but no volume in Alfke1943
+Warning--empty journal in Flake
+Warning--empty year in Flake
+Warning--empty journal in Hahanov2008
+Warning--empty journal in IEEEComputerSociety2013
+Warning--empty journal in Kumar2014
+Warning--empty journal in Marc-Andre
+Warning--empty journal in Navabi2015
+Warning--empty publisher in sutherland2006
+(There were 10 warnings)
