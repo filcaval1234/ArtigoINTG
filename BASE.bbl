@@ -6,11 +6,6 @@ S.~L. Abebe, S.~Haiduc, A.~Marcus, P.~Tonella, and G.~Antoniol.
 \newblock {\em Proceedings of the European Conference on Software Maintenance
   and Reengineering, CSMR}, pages 189--198, 2009.
 
-\bibitem{Alfke1943}
-P.~Alfke, I.~Bolsens, and B.~Carter.
-\newblock {Fpga !}
-\newblock (November 2011):15--20, 1943.
-
 \bibitem{Antoniol2007}
 G.~Antoniol, Y.~G. Gu{\'{e}}h{\'{e}}neuc, E.~Merlo, and P.~Tonella.
 \newblock {Mining the lexicon used by programmers during sofware evolution}.
@@ -64,6 +59,12 @@ Z.~Navabi.
 \newblock {HDLs Evolve as they Affect Design Methodology for a Higher
   Abstraction and a Better Integration}.
 \newblock page 4799, 2015.
+
+\bibitem{Santos2009}
+K.~D.~F. Santos.
+\newblock {Webservice De Extra{\c{c}}{\~{a}}o De Vocabul{\'{a}}rio De
+  C{\'{o}}digo Para Pesquisas Emp{\'{i}}ricas Em Engenharia De Software}.
+\newblock 2009.
 
 \bibitem{sutherland2006}
 S.~Sutherland, S.~Davidmann, and P.~Flake.

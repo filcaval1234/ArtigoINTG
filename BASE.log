@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.9.28)  3 OCT 2017 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.9.28)  4 OCT 2017 12:28
 entering extended mode
 **./BASE.tex
 (BASE.tex
@@ -640,135 +640,120 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 ("D:\Nova pasta (2)\LaTexCompiler\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 21--33
-\OT1/cmr/m/n/12 dddddddddddd ddddddd ddddddddd
- []
-
-
-Underfull \hbox (badness 3354) in paragraph at lines 21--33
-\OT1/cmr/m/n/12 dddddddd dddddddd dddddd dsaa ass
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--33
-\OT1/cmr/m/n/12 sssssss asssss ssssss ssssssss sssssssss
- []
-
-
-Underfull \hbox (badness 3240) in paragraph at lines 40--41
+Underfull \hbox (badness 3240) in paragraph at lines 29--30
 \OT1/cmr/m/n/12 para de-sign e ver-i-ficac~ao na in-dus-tria
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 40--41
-\OT1/cmr/m/n/12 VLSI(Very Large Scale In-te-gra-tion) [9].
+Underfull \hbox (badness 1571) in paragraph at lines 29--30
+\OT1/cmr/m/n/12 VLSI(Very Large Scale In-te-gra-tion) [8].
  []
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 42--43
+Underfull \hbox (badness 6758) in paragraph at lines 31--32
 []\OT1/cmr/m/n/12 Umas das prin-ci-pais fontes de in-
  []
 
 
-Underfull \hbox (badness 3780) in paragraph at lines 42--43
+Underfull \hbox (badness 3780) in paragraph at lines 31--32
 \OT1/cmr/m/n/12 cabulario do mesmo. O vo-cabulario
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 36--37
+ \OT1/cmr/m/n/12 Gracas aos at-u-ais de-signs eletr^onicos
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 36--37
+\OT1/cmr/m/n/12 mod-e-lagem fsica e teste pos-fabricac~ao
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 36--37
+\OT1/cmr/m/n/12 anos as lin-gua-gens de de-scric~ao e ver-i-
  []
 
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 2134) in paragraph at lines 47--48
- \OT1/cmr/m/n/12 Gracas aos at-u-ais de-signs eletr^onicos
- []
-
-
-Underfull \hbox (badness 1931) in paragraph at lines 47--48
-\OT1/cmr/m/n/12 mod-e-lagem fsica e teste pos-fabricac~ao
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 47--48
-\OT1/cmr/m/n/12 anos as lin-gua-gens de de-scric~ao e ver-i-
- []
-
-
-Underfull \hbox (badness 1668) in paragraph at lines 50--50
+Underfull \hbox (badness 1668) in paragraph at lines 39--39
 []\OT1/cmr/bx/n/14.4 O Hard-ware Como Um
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 []\OT1/cmr/bx/n/17.28 Resultados e Dis-
  []
 
 (BASE.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 15--19
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
 []\OT1/cmr/m/n/12 G. An-to-niol, Y. G. Gueheneuc,
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 21--25
+Underfull \hbox (badness 2503) in paragraph at lines 16--20
 \OT1/cmr/m/n/12 Car-lini.  Re-verse en-gi-neer-ing pro-
  []
 
 
-Underfull \hbox (badness 4403) in paragraph at lines 31--35
+Underfull \hbox (badness 4403) in paragraph at lines 26--30
 []\OT1/cmr/m/n/12 V. Ha-hanov, D. Mel-nik, O. Za-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--35
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
 \OT1/cmr/m/n/12 harchenko, and S. Za-y-chenko.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--35
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
 \OT1/cmr/m/n/12 Overview of Object-Oriented Ap-
  []
 
 
-Underfull \hbox (badness 3919) in paragraph at lines 31--35
+Underfull \hbox (badness 3919) in paragraph at lines 26--30
 \OT1/cmr/m/n/12 tion for System-on-Chips.  pages
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 43--48
+Underfull \hbox (badness 1418) in paragraph at lines 38--43
 []\OT1/cmr/m/n/12 IEEE Com-puter So-ci-ety and IEEE
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 43--48
+Underfull \hbox (badness 1960) in paragraph at lines 38--43
 \OT1/cmr/m/n/12 Spec-i-fi-ca-tion, and Ver-i-fi-ca-tion Lan-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 56--61
+Underfull \hbox (badness 2302) in paragraph at lines 51--56
 \OT1/cmr/m/n/12 THE AB-STRAC-TION LEVEL OF
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 56--61
+Underfull \hbox (badness 1102) in paragraph at lines 51--56
 \OT1/cmr/m/n/12 HDL FOR CONTROL-DOMINANT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--61
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \OT1/cmr/m/n/12 AP-PLI-CA-TIONS Marc-Andre
  []
 
 
-Underfull \hbox (badness 2486) in paragraph at lines 56--61
+Underfull \hbox (badness 2486) in paragraph at lines 51--56
 \OT1/cmr/m/n/12 Daigneault and Jean Pierre David
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 56--61
+Underfull \hbox (badness 1122) in paragraph at lines 51--56
 \OT1/cmr/m/n/12 , Ecole Poly-tech-nique de Mon-treal.
  []
 
 [2]
-Underfull \hbox (badness 1635) in paragraph at lines 69--73
+Underfull \hbox (badness 1635) in paragraph at lines 70--74
 []\OT1/cmr/m/n/12 S. Suther-land, S. David-mann, and
  []
 
@@ -777,17 +762,17 @@ Underfull \hbox (badness 1635) in paragraph at lines 69--73
 ] (BASE.aux) ) 
 Here is how much of TeX's memory you used:
  3568 strings out of 493323
- 46199 string characters out of 3137315
+ 46200 string characters out of 3137315
  220304 words of memory out of 3000000
  7049 multiletter control sequences out of 15000+200000
  8096 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,7n,25p,755b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,7n,25p,748b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/c
 mbx12.pfb><D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/cmr12
 .pfb><D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/cmr17.pfb>
 <D:/Nova pasta (2)/LaTexCompiler/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on BASE.pdf (3 pages, 75595 bytes).
+Output written on BASE.pdf (3 pages, 75317 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
